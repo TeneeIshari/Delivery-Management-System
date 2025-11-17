@@ -1,0 +1,2 @@
+Parcel Tracking & Delivery Management System
+Developed a full-stack parcel tracking and delivery management system for the Sri Lanka Postal Department. The application enables users to manage post offices, register parcels, update delivery statuses, and track parcel journeys in real time through a modern web interface. It also includes a dashboard for parcel statistics and an optional QR-based tracking enhancement.
